@@ -1,0 +1,32 @@
+1) fe files auto genrated
+2) 2wl 7aga ht3ml create le project flutter b3d kda tklm 3la in files eli mtlwna m4 hat7tgha wa m4 htt3amel m3aha
+3) file android da file eli hytl3lk app andorid htegi ganbo ah
+4) file ios file hytl3lk ios app
+
+
+// delete all app and start from main
+talk about start application start from runApp 
+
+1) runApp want something Widget
+2) create class Myapp 
+3) then talk that class Myapp is normal class not Widget class
+4) extend from widget Stateless Widget
+5) put abstract method build that come from stateless Widget
+
+then talk aboud Widget every thing draw in screen is widget
+then take that fucntion build call from constractor by default
+
+then talk aboud first Screen we need biggest widget that found in side it all theme and design this Widget Call (MaterialApp)
+
+
+every widget take rules or theme or design from materialApp
+
+put Text in home parameter and talk about anonmous class and make class Text above and take object from it
+
+then talk about Scaffold and open flutter document and explain in scaffold class 
+Scaffold Class Conatain 3 some thing appBar and FloatingActionButton and body
+
+// hot reload
+==> withoud build method no hot reload take care 
+
+
